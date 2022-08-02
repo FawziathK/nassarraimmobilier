@@ -1,0 +1,13 @@
+{
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "filp/whoops": "^2.12",
+        "symfony/var-dumper": "^5.2",
+        "swiftmailer/swiftmailer": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Synext\\": "core/"
+        }
+    }
+}
